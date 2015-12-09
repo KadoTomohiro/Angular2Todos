@@ -1,7 +1,9 @@
 # Angular2Todos
 
 ### package
+
 ```
+npm init -y
 npm install angular2 --save
 npm install systemjs --save
 npm install typescript --save
